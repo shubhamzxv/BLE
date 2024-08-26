@@ -6,7 +6,6 @@ from ble import (
     Application,
     Service,
     Characteristic,
-    Descriptor,
     Advertisement,
     find_adapter,
     BLUEZ_SERVICE_NAME,
